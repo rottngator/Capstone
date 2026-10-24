@@ -29,4 +29,17 @@
     color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large;
+    border: solid white 5px;
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.block2{
+    display: flex;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    border: solid white 5px;
+    border-radius: 40px;
+    padding: 20px;
 }
